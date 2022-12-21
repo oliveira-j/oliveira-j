@@ -1,4 +1,4 @@
-Prazer, sou João Pedro de Oliveira 
+Olá, sou João Pedro de Oliveira 
 
 -  Hoje estou terminando um curso técnico de informática
 
